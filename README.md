@@ -1,2 +1,2 @@
 # FakeNewsV2
-FakeNews Detection
+FakeNews Detection from generic news dataset
